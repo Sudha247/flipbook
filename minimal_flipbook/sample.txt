@@ -1,0 +1,4 @@
+1 10 ss.jpg // I'm a comment
+11 15 s2.jpg
+16 18 sq.jpg
+// End

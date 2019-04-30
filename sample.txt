@@ -1,0 +1,5 @@
+1 10 ss.jpg // I'm a comment
+11 15 s2.jpg scale 2
+16 18 s2.jpg move 100 100
+19 25 ss.jpg rotate 90
+// End
