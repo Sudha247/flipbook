@@ -5,8 +5,8 @@
 Python 3
 
 ### Libraries
-* PLY (Python-Lex-Yacc)
-* FPDF
+* PLY (Python-Lex-Yacc) - [GitHub page](https://github.com/dabeaz/ply)
+* FPDF - [GitHub page](https://github.com/reingart/pyfpdf)
 
 Image format supported - JPG
 
